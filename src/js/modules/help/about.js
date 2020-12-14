@@ -21,9 +21,3 @@ class Help_about_class {
 				{title: "EMAIL: <font>razorlex1995@gmail.com</font>'};
 			]
 		};
-		this.POP.show(settings);
-	};
-
-};
-
-export default Help_about_class;
