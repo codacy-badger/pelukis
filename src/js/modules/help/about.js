@@ -15,13 +15,13 @@ class Help_about_class {
 			title: 'About',
 			params: [
 				{title: "MPEX", html: '<img style="width:64px;" class="about-logo" alt="" src="images/logo-colors.png" />'},
-				{title: "Name:", html: '<span class="about-name">MPEX</span>'},
-				{title: "Version:", value: VERSION},
-				{title: "Description:", value: "Online image editor."},
-				{title: "Author:", value: 'ALEXANDER ERIC'},
-				{title: "Email:", html: '<a href="mailto:' + email + '">' + email + '</a>'},
-				{title: "GitHub:", html: '<a href="https://paymyserver.github.io/pelukis">https://paymyserver.github.io/pelukis</a>'},
-				{title: "Website:", html: '<a href="https://paymyserver.github.io/pelukis">https://paymyserver.github.io/pelukis</a>'},
+				{title: "Name: : MPEX"},
+				{title: "Version: 1.0.0"},
+				{title: "Description: MPEX online photo editor"},
+				{title: "Author: ALEXANDER ERIC"},
+				{title: "Email: razorlex1995@gmail.com"},
+				{title: "GitHub: https://paymyserver.github.io/pelukis"},
+				{title: "Website: https://paymyserver.github.io/pelukis"},
 			],
 		};
 		this.POP.show(settings);
