@@ -15,9 +15,9 @@ class Help_about_class {
 			title: 'About',
 			params: [
 				{title: "MPEX", html: '<img style="width:64px;" class="about-logo" alt="" src="images/logo-colors.png" />'};
-{title: "AUTHOR : <font>ALEXANDER ERIC</font>'};
-{title: "VERSION : <font>1.0.0.0</font>'};
-				{title: "DESCRIPTION: <font>MPEX photo editor</font>'};
-				{title: "EMAIL: <font>razorlex1995@gmail.com</font>'};
+{name: "author",  title: "AUTHOR:"}{name:"authorname", title:"Alexander Eric"};
+{name: "version", title: "VERSION:"}{name:"version", title: "1.0.0.0"};
+				{name: "Email", title: "EMAIL:"}{name: "razor", title: "razorlex1995@gmail.com};
 			]
 		};
+	};
