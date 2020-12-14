@@ -15,10 +15,10 @@ class Help_about_class {
 			title: 'About',
 			params: [
 				{title: "MPEX", html: '<img style="width:64px;" class="about-logo" alt="" src="images/logo-colors.png" />'};
-{title: "AUTHOR", html: '<font>ALEXANDER ERIC</font>'};
-{title: "VERSION", html: '<font>1.0.0.0</font>'};
-				{title: "DESCRIPTION", html: '<font>MPEX photo editor</font>'};
-				{title: "EMAIL", html: '<font>razorlex1995@gmail.com</font>'};
+{title: "AUTHOR : <font>ALEXANDER ERIC</font>'};
+{title: "VERSION : <font>1.0.0.0</font>'};
+				{title: "DESCRIPTION: <font>MPEX photo editor</font>'};
+				{title: "EMAIL: <font>razorlex1995@gmail.com</font>'};
 			]
 		};
 		this.POP.show(settings);
