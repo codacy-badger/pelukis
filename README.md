@@ -1,3 +1,4 @@
 # pelukis
-WAU studio Photo Editor (Sample)
+WAU Animation studio Photo Editor (Sample)
 http://pelukis.ml/
+-WAU studio (Animation Company Located At Malaysia)
