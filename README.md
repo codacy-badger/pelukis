@@ -1,3 +1,3 @@
 # pelukis
-sample of MPEX (Malaysia Photo Editor) GUI
-https://paymyserver.github.io/pelukis/
+WAU studio Photo Editor (Sample)
+http://pelukis.ml/
